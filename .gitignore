@@ -1,0 +1,12 @@
+# Maven/Java/IntelliJ ignores
+target/
+*.iml
+.idea/
+.DS_Store
+out/
+.classpath
+.project
+.settings/
+.mvn/wrapper/maven-wrapper.jar
+# OS
+Thumbs.db
